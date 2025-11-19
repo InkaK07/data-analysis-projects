@@ -1,2 +1,2 @@
 # data-analysis-projects
-So far for my Jupyter notebook projects
+so far for my Jupyter notebook projects
